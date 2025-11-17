@@ -1,17 +1,19 @@
 # YachayAppli
 
-## Herramienta Digital Educativa para el Aprendizaje de Idiomas Indígenas
+## Autores
+- Castro Palacios, Lindsey Y. U202111938
+- Gonzales Cieza, Maritza N. U202416664
+- Ordaya Guerrero, Paolo C. A. U202312723
+- Parado Cconislla, Annie M. U20241A178
+- Ramos Cerdan, Elias D. U20201A277
+- Romero Tupayachi, Bruno M. U202322846
+- Tirado Carrera, Gabriela L. U202419592
+  
 
-## Información General del Proyecto
-*Yachay App* (de la Startup *Ayllu Talk*) es una solución digital diseñada en el marco del curso de IHC y Tecnologías Móviles (NRC 4204). 
-El propósito principal del proyecto es ofrecer una herramienta educativa interactiva y accesible para facilitar el aprendizaje de *idiomas indígenas peruanos* 
-(como el Aymara o Quechua), contribuyendo a la preservación cultural y lingüística.
-
-Este avance corresponde a la *Implementación de la Landing Page* y la correcta configuración del entorno de trabajo utilizando la metodología *GitFlow*.
+## Información del Proyecto
+*Yachay App* es una solución digital diseñada con el propósito de ofrecer una herramienta educativa interactiva y accesible para facilitar el aprendizaje de idiomas indígenas como el Aymara o Quechua, así contribuyendo a la preservación cultural y lingüística del país.
 
 ## Segmentos Objetivo
-Esta solución digital está dirigida a:
-
 * *Estudiantes y Usuarios Interesados:* Personas que desean aprender o practicar un idioma indígena peruano mediante módulos interactivos y recursos digitales.
 * *Instituciones Educativas y Culturales:* Organizaciones que buscan integrar herramientas tecnológicas para la enseñanza y difusión de idiomas originarios.
 * *Comunidades Indígenas:* Personas que buscan herramientas modernas para revitalizar y apoyar la enseñanza de su lengua ancestral entre las nuevas generaciones.
@@ -25,12 +27,4 @@ El proyecto cumple con los siguientes requerimientos de implementación:
 * *Librerías Externas:* Integración permitida de *Google Fonts, **Font Awesome* y *jQuery* para mejorar la experiencia de usuario.
 * *Diseño Optimizado:* Desarrollo inicial de la Landing Page con foco en la *Usabilidad* y la adaptación a dispositivos móviles.
 
-## Autores
-Este proyecto fue desarrollado por :
-| Castro Palacios, Lindsey Y. | Integrante | U202111938 | *[@TuUsuarioGitHub]* |
-| Gonzales Cieza, Maritza N. | Integrante | U202416664 | [Usuario GitHub] |
-| Ordaya Guerrero, Paolo C. A. | Integrante | U202312723 | [Usuario GitHub] |
-| Parado Cconislla, Annie M. | Integrante | U20241A178 | [Usuario GitHub] |
-| Ramos Cerdan, Elias D. | Integrante | U20201A277 | [Usuario GitHub] |
-| Romero Tupayachi, Bruno M. | Integrante | U202322846 | [Usuario GitHub] |
-| Tirado Carrera, Gabriela L. | Integrante | U202419592 | [Usuario GitHub] |
+
