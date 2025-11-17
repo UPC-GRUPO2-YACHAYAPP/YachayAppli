@@ -21,7 +21,7 @@
 - *Instituciones Educativas y Culturales:* Organizaciones que buscan integrar herramientas tecnológicas para la enseñanza y difusión de idiomas originarios.
 - *Comunidades Indígenas:* Personas que buscan herramientas modernas para revitalizar y apoyar la enseñanza de su lengua ancestral entre las nuevas generaciones.
 
-# Características Principales Ofrecidas
+## Características Principales Ofrecidas
 
 * *Control de Versiones Profesional:* Uso de la metodología GitFlow (ramas main, develop y feature/) para la gestión colaborativa del código.
 * *Estructura Organizada:* Implementación del patrón de carpetas: public, public/assets/styles, public/assets/images y public/assets/scripts.
