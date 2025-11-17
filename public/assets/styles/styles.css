@@ -1,0 +1,21 @@
+/* Reset básico para asegurar la consistencia */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* Usa la fuente que hayas elegido de Google Fonts */
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background-color: #f4f4f9;
+    color: #333;
+    line-height: 1.6;
+}
+
+/* Estilos de ejemplo para la cabecera (Header) */
+header {
+    background-color: #1e3a8a; /* Un color de marca para AylluTalk */
+    color: white;
+    padding: 1rem 0;
+}
